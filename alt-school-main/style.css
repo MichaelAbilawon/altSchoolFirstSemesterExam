@@ -1,4 +1,4 @@
-/* import links for fonts */
+/* this link is to import the fonts */
 
 @import url('https://fonts.cdnfonts.com/css/gilroy-bold');
               
@@ -86,7 +86,10 @@ header > div {
     color: #005AE2;
 }
 
-/* Optimize-online-experience */
+
+/* Page 1*/
+
+/* Optimize-online-experience, page 1*/
 
 .Online-experience {
     max-width: 50%;
@@ -162,6 +165,9 @@ h1 > span {
     line-height: 25px;
 }
 
+/* Page 2*/
+
+
 /* One-stop-Four-Possibilities */
 
 .One-stop-Four-Possibilities > img {
@@ -226,6 +232,8 @@ h1 > span {
 .why-choose-scissors-main > div {
     max-width: 262px;
 }
+
+/* Page 3*/
 
 /* perfect-price */
 
@@ -322,6 +330,8 @@ h1 > span {
     background-color: #005AE2;   
 }
 
+/* Page 4*/
+
 /* Form */
 
 .fill-a-form {
@@ -407,46 +417,8 @@ form > strong {
 color: #3284FF;
 }
 
-/* link-optimization */
 
-.link-optimization {
-    background-color: #1e3448;
-    height: 300px;
-    position: relative;
-    margin: 50px 0;
-}
-
-.link-optimization > img {
-    position: absolute;
-    max-height: 300px;
-}
-
-.link-optimization > .bottom-img {
-    top: 0;
-    right: 0;
-}
-
-.link-optimization > div {
-    width: 50%;
-    position: absolute;
-    top: 90px;
-    left: 300px;
-    text-align: center;
-    color: white;
-}
-
-.link-optimization > div > h1 {
-    font-size: 2em;
-}
-
-.link-optimization > div > button {
-    padding: 15px 50px;
-    margin: 30px 0;
-    border-radius: 20px;
-    color: white;
-    background-color: #005AE2;
-    border: 0;
-}
+/* Page 5*/
 
 /* FAQ */
 .FAQ {
@@ -513,6 +485,48 @@ color: #3284FF;
     transition: max-height 0.5s ease-out;
 }
 
+/* page 6 */
+
+/* link-optimization */
+
+.link-optimization {
+    background-color: #1e3448;
+    height: 300px;
+    position: relative;
+    margin: 50px 0;
+}
+
+.link-optimization > img {
+    position: absolute;
+    max-height: 300px;
+}
+
+.link-optimization > .bottom-img {
+    top: 0;
+    right: 0;
+}
+
+.link-optimization > div {
+    width: 50%;
+    position: absolute;
+    top: 90px;
+    left: 300px;
+    text-align: center;
+    color: white;
+}
+
+.link-optimization > div > h1 {
+    font-size: 2em;
+}
+
+.link-optimization > div > button {
+    padding: 15px 50px;
+    margin: 30px 0;
+    border-radius: 20px;
+    color: white;
+    background-color: #005AE2;
+    border: 0;
+}
 
 
 /* Footer */
